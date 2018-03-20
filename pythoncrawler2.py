@@ -66,7 +66,7 @@ def extract_data(url, year):
 if __name__ == '__main__':
     
     current_year = int(date.today().strftime("%Y"))
-    start_range = 2013
+    start_range = 2002
     end_range = current_year + 1
     for i in range(start_range,end_range,1):
         #pass
