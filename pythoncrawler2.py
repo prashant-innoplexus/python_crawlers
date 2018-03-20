@@ -27,6 +27,7 @@ def extract_data(url, year):
             anchor_tag = row.find('a')
 
             row_content = row.text.strip()
+            #print(row_content)
 
             if anchor_tag != None:
                 news.topline = anchor_tag.text.strip()
@@ -34,7 +35,11 @@ def extract_data(url, year):
                 continue  # skipping blank rows and cols
             
             try:
-                news.date =  ((row_content.split('Date:'))[1]).strip() + ', ' + str(year)
+                raw_date = ((row_content.split('Date:'))[1]).strip()
+                # if size of pdf file also mentioned then handling date extraction accordingly
+                if "size" in raw_date.lower():  
+                    raw_date = (raw_date.split('Size'))[0].strip()
+                news.date = raw_date + ', ' + str(year)
             except:
                 news.date = row.parent.parent.find('td', {'class':'rates_tbl_header rates_linewhite'}).text.strip()
 
@@ -50,6 +55,7 @@ def extract_data(url, year):
             list_news.append(business)            
         db.lnews.insert_many(list_news)
         print('Created {0} for year {1}'.format(len(list_news), str(year)))
+        #print(list_news)
 
     except Exception as e:
         # write error log to DB or file or eventviewer
@@ -60,7 +66,7 @@ def extract_data(url, year):
 if __name__ == '__main__':
     
     current_year = int(date.today().strftime("%Y"))
-    start_range = 2002
+    start_range = 2013
     end_range = current_year + 1
     for i in range(start_range,end_range,1):
         #pass
