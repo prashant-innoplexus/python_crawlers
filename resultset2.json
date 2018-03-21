@@ -1,0 +1,103 @@
+
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2002"),
+        "topline" : "Lupin receives FDA approval for generic Topicort Topical Spray, 0.25%",
+        "date" : "March 19, 2018",
+        "url" : "http://www.lupin.com/lupin-receives-fda-approval-for-generic-topicort-topical-spray-0-25.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2003"),
+        "topline" : "Lupin launches generic Safyral® tablets in the US",
+        "date" : "March 13, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-safyral-tablets-in-the-us.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2004"),
+        "topline" : "Lupin signs an agreement with CSIR-NCL and DST for the development of a continuous manufacturing process for biosimilar monoclonal antibody therapeutic (mAb)",
+        "date" : "March 08, 2018",
+        "url" : "http://www.lupin.com/lupin-signs-an-agreement-with-csir-ncl-and-dst.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2005"),
+        "topline" : "Lupin launches generic Axiron®s topical solution in the US",
+        "date" : "February 26, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-axiron-topical-solution-in-the-us.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2006"),
+        "topline" : "Lupin launches generic Namenda XR® capsules in the US",
+        "date" : "February 21, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-namenda-xr-capsules-in-the-us.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2007"),
+        "topline" : "Lupin receives FDA approval for generic Tamiflu® for Oral Suspension",
+        "date" : "February 21, 2018",
+        "url" : "http://www.lupin.com/lupin-receives-fda-approval-for-generic-tamiflu-for-oral-suspension.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2008"),
+        "topline" : "Lupin receives tentative FDA approval for generic Locoid® Lotion",
+        "date" : "February 12, 2018",
+        "url" : "http://www.lupin.com/lupin-receives-tentative-fda-approval-for-generic-locoid-lotion.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2009"),
+        "topline" : "Lupin launches generic Tamiflu® in the US",
+        "date" : "February 12, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-tamiflu-in-the-us.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e200a"),
+        "topline" : "Lupin launches generic Kapvay® tablets in the US",
+        "date" : "February 8, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-kapvay-tablets-in-the-us.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e200b"),
+        "topline" : "Lupin and Yoshindo's JV – YL Biologics announces successful outcome of global Phase III study for Etanercept biosimilar in Rheumatoid Arthritis",
+        "date" : "February 7, 2018",
+        "url" : "http://www.lupin.com/lupin-and-yoshindos-js-yl-biologics.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e200c"),
+        "topline" : "Lupin Quarter III, FY2018 - Results",
+        "date" : "February 6, 2018",
+        "url" : "http://www.lupin.com/lupin-quarter-3-fy-2018-results.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e200d"),
+        "topline" : "Lupin launches generic Clobex® Lotion in the US",
+        "date" : "February 1, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-clobex-lotion-in-the-us.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e200e"),
+        "topline" : "Lupin receives FDA approval for generic Temovate Cream, 0.05%",
+        "date" : "February 1, 2018",
+        "url" : "http://www.lupin.com/lupin-receives-fda-approval-for-generic-temovate-cream-0-05.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e200f"),
+        "topline" : "Notice to the Exchanges on Board Meeting",
+        "date" : "January 25, 2018",
+        "url" : "http://www.lupin.com/pdf/18/01/bse-letter-investors-call-06-02-2018.pdf"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2010"),
+        "topline" : "Lupin launches generic Vibra-Tabs® Tablet in the US",
+        "date" : "January 19, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-vibra-tabs-tablet-in-the-us.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2011"),
+        "topline" : "Lupin receives FDA approval for generic Tamiflu Capsules",
+        "date" : "January 10, 2018",
+        "url" : "http://www.lupin.com/lupin-receives-fda-approval-for-generic-tamiflu-capsules.php"
+}
+{
+        "_id" : ObjectId("5ab022ca18dd7f25489e2012"),
+        "topline" : "Lupin launches generic Ancobon® capsules in the US",
+        "date" : "January 5, 2018",
+        "url" : "http://www.lupin.com/lupin-launches-generic-ancobon-capsules-in-the-us.php"
+}

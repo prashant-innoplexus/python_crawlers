@@ -1,0 +1,211 @@
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de2"),
+        "topline" : null,
+        "headers" : [
+                "Bayer moves its transparency initiative into the next phase",
+                "First full, in-depth safety studies are accessible via the Bayer platform / Bayer reconfirms its commitment to transparency by supporting the European Commission’s call for greater transparency around crop protection safety studies ..."
+        ],
+        "date" : "March 13, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-moves-its-transparency-initiative-into-the-next-phase?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de3"),
+        "topline" : null,
+        "headers" : [
+                "Bayer in exclusive talks with BASF on the sale of vegetable seeds business",
+                null
+        ],
+        "date" : "March 7, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-in-exclusive-talks-with-BASF-on-the-sale-of-vegetable-seeds-business?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de4"),
+        "topline" : "Modern labor and water efficient methods:",
+        "headers" : [
+                "Bayer partners with IRRI to advance technologies for direct-seeded rice in Asia",
+                "Bayer joins Direct Seeded Rice Consortium led by IRRI ..."
+        ],
+        "date" : "March 2, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-partners-with-IRRI-to-advance-technologies-for-direct-seeded-rice-in-Asia?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de5"),
+        "topline" : "Financial News Conference",
+        "headers" : [
+                "Full Year 2017 Results",
+                null
+        ],
+        "date" : "February 28, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Full-Year-2017-Results?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de6"),
+        "topline" : "Fiscal 2017:",
+        "headers" : [
+                "Bayer: business at prior-year level – on track with strategy",
+                "Group sales increased by 1.5 percent (Fx & portfolio adj.) to 35.015 billion euros / Another record year for Pharmaceuticals ..."
+        ],
+        "date" : "February 28, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-business-at-prior-year-level-on-track-with-strategy?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de7"),
+        "topline" : null,
+        "headers" : [
+                "EFSA’s conclusions do not justify further neonicotinoid use restrictions",
+                "Risk assessments are based on the unapproved Bee Guidance Document, which disregards the interests of EU member states ..."
+        ],
+        "date" : "February 28, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/EFSAs-conclusions-do-not-justify-further-neonicotinoid-use-restrictions?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de8"),
+        "topline" : null,
+        "headers" : [
+                "Bayer proposes increased dividend for 2017 of 2.80 euros per share",
+                "Payment per share rises 3.7 percent ..."
+        ],
+        "date" : "February 27, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-proposes-increased-dividend-for-2017-of-280-euros-per-share?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4de9"),
+        "topline" : "Not intended for U.S. and UK Media",
+        "headers" : [
+                "Bayer announces publication of larotrectinib data in The New England Journal of Medicine",
+                "Larotrectinib demonstrated marked and durable anti-tumor activity in TRK fusion cancers regardless of patient age or tumor type  ..."
+        ],
+        "date" : "February 21, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-announces-publication-of-larotrectinib-data-in-The-New-England-Journal-of-Medicine?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4dea"),
+        "topline" : "New round of sponsorships in Role Model Program:",
+        "headers" : [
+                "Ten years of Bayer support for employees’ volunteering work",
+                "Bayer Cares Foundation awards over EUR 402,000 to 113 projects worldwide in 2017 / Highest sum ever paid out in one year ..."
+        ],
+        "date" : "February 16, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Ten-years-of-Bayer-support-for-employees-volunteering-work?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7818dd7f0acced4deb"),
+        "topline" : "Helping growers worldwide control major diseases:",
+        "headers" : [
+                "Bayer and Mitsui Chemicals Agro sign licence agreement for novel fungicide",
+                null
+        ],
+        "date" : "February 15, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-and-Mitsui-Chemicals-Agro-sign-licence-agreement-for-novel-fungicide?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4dec"),
+        "topline" : "Not intended for U.S. and UK Media",
+        "headers" : [
+                "Bayer receives first approval for Eylea® in China",
+                "Eylea is the first anti-VEGF drug approved in China for the treatment of visual impairment due to diabetic macular edema in patients with DME ..."
+        ],
+        "date" : "February 13, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-receives-first-approval-for-Eylea-in-China?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4ded"),
+        "topline" : "Bayer People Care for Society – the international talent program:",
+        "headers" : [
+                "Three-month social sabbaticals helping to develop solutions to healthcare and food security challenges worldwide",
+                "Bayer talents dedicate professional skills to tackling major health and food challenges in social impact assignments worldwide  ..."
+        ],
+        "date" : "February 13, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Three-month-social-sabbaticals-helping-develop-solutions-healthcare-security-challenges-worldwide?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4dee"),
+        "topline" : "Not intended for U.S. and UK Media",
+        "headers" : [
+                "New data for aflibercept show prolonged injection intervals",
+                "Data from ALTAIR study demonstrate injection appointments at an interval of 12 weeks or more / New data submitted ..."
+        ],
+        "date" : "February 12, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/New-data-for-aflibercept-show-prolonged-injection-intervals?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4def"),
+        "topline" : "Not intended for U.S. and UK Media: 2018 American Society of Clinical Oncology Genitourinary (ASCO GU) Cancers Symposium:",
+        "headers" : [
+                "Bayer to showcase latest prostate cancer research at ASCO GU 2018 Cancer Symposium",
+                "New data on the long-term efficacy and safety of Xofigo® (radium-223 dichloride) / Update on ongoing studies with darolutamide, a novel investigational oral androgen receptor (AR) antagonist, including the ARASENS pivotal trial in men with metastatic hormone-sensitive prostate cancer (mHSPC) ..."
+        ],
+        "date" : "February 7, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-to-showcase-latest-prostate-cancer-research-at-ASCO-GU-2018-Cancer-Symposium?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4df0"),
+        "topline" : "Agreements will be signed at Fruit Logistica:",
+        "headers" : [
+                "Bayer and NGOs collaborate to support smallholder farmers",
+                "Farmers will benefit from expertise, technologies, and better access to markets ..."
+        ],
+        "date" : "February 7, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-and-NGOs-collaborate-to-support-smallholder-farmers?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4df1"),
+        "topline" : "Higher crop yields via mobile phone:",
+        "headers" : [
+                "Bayer supports innovative myAgro start-up with funding of more than USD 600,000 to assist smallholder farmers in West Africa",
+                "Small amounts of money are saved by farmers via mobile phones in the form of myAgro scratch cards and exchanged for high-quality seed and fertilizer ..."
+        ],
+        "date" : "January 23, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-supports-innovative-myAgro-start-up-funding-USD-600000-assist-smallholder-farmers-West-Africa?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4df2"),
+        "topline" : "Not intended for U.S. and UK Media - 2018 American Society of Clinical Oncology Gastrointestinal (ASCO GI) Cancer Symposium:",
+        "headers" : [
+                "Bayer to highlight new research at ASCO GI 2018 Cancer Symposium",
+                "Data continue to affirm the impact of Stivarga® (regorafenib) and Nexavar® (sorafenib) ..."
+        ],
+        "date" : "January 17, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-to-Highlight-New-Research-at-ASCO-GI-2018-Cancer-Symposium?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4df3"),
+        "topline" : "Not intended for U.S. or UK Media",
+        "headers" : [
+                "FDA report reaffirms safety profile and effectiveness of Bayer’s Xarelto® in routine clinical practice",
+                null
+        ],
+        "date" : "January 16, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/FDA-report-reaffirms-safety-profile-effectiveness-Bayers-Xarelto-routine-clinical-practice?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4df4"),
+        "topline" : "NOT FOR DISTRIBUTION IN THE UNITED STATES OF AMERICA, AUSTRALIA, CANADA, SOUTH AFRICA OR JAPAN",
+        "headers" : [
+                "Bayer sells 10.4 percent stake in Covestro",
+                "Placement volume considerably higher than planned ..."
+        ],
+        "date" : "January 11, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/Bayer-sells-104-percent-stake-in-Covestro?Open&parent=news-overview-category-search-en&ccm=020"
+}
+{
+        "_id" : ObjectId("5aae2f7c18dd7f0acced4df5"),
+        "topline" : "NOT FOR DISTRIBUTION IN THE UNITED STATES OF AMERICA, AUSTRALIA, CANADA, SOUTH AFRICA OR JAPAN",
+        "headers" : [
+                "Bayer further reduces holding in Covestro",
+                "Accelerated bookbuilding process started ..."
+        ],
+        "date" : "January 10, 2018",
+        "url" : "http://www.news.bayer.com/baynews/baynews.nsf/id/AUVMGU-Bayer-further-reduces-holding-in-Covestro?Open&parent=news-overview-category-search-en&ccm=020"
+}
+
+
+
+
+
+
+
+
+
+
+
